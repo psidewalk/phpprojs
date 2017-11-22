@@ -1,2 +1,2 @@
 # phpprojs
-php projects
+Dedicated to my php projects
